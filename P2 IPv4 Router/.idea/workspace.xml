@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb20e8b9-cfee-43f4-ab05-11d50e0eaaa7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Zk2KBUYiqrvFscvBMHiL09SaaS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb20e8b9-cfee-43f4-ab05-11d50e0eaaa7" name="Default Changelist" comment="" />
+      <created>1585368704951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585368704951</updated>
+      <workItem from="1585368720249" duration="25089000" />
+      <workItem from="1585940144737" duration="822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585382596796">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/244.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1585382596796" />
+    <state x="698" y="424" key="FileChooserDialogImpl" timestamp="1585369089074">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="424" key="FileChooserDialogImpl/244.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1585369089074" />
+    <state x="469" y="179" key="SettingsEditor" timestamp="1585369094759">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/244.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1585369094759" />
+    <state x="575" y="149" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585375477502">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="575" y="149" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/244.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1585375477502" />
+    <state x="722" y="178" key="refactoring.ChangeSignatureDialog" timestamp="1585378427436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="722" y="178" key="refactoring.ChangeSignatureDialog/244.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1585378427436" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1585448825949">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/244.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1585448825949" />
+  </component>
+</project>
